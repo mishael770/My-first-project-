@@ -1,0 +1,8 @@
+My Software Engineering Journey
+
+Hi, I'm Zino. I'm studying a four-year degree in software engineering.
+
+My goal: become a software engineer and build real projects.
+
+Started learning on my phone. Laptop coming soon.
+```
